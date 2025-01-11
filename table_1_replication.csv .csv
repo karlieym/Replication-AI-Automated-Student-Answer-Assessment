@@ -1,0 +1,4 @@
+replication,Dataset (Subject) ,#1 (Science),,,#2 (Science),,,#5 (Biology),,,#6 (Biology),,,Overall,,
+,Method/Model (ChatGPT Prompting),Acc,F1,QWK,Acc,F1,QWK,Acc,F1,QWK,Acc,F1,QWK,Acc,F1,QWK
+1,Simple Instruction,47.58,46.81,57.37,34.74,46.81,32.63,76.92,44.54,64.97,70.45,37.17,57.17,59.40,46.38,67.64
+1,Complex Instruction,43.09,36.73,41.04,30.99,26.82,30.28,34.78,24.88,22.57,41.57,30.16,32.26,38.03,34.37,41.02
